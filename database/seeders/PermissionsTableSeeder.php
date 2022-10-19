@@ -120,7 +120,7 @@ class PermissionsTableSeeder extends Seeder
             ],
             [
                 'id'    => 28,
-                'title' => 'application_craete',
+                'title' => 'application_create',
             ],
             [
                 'id'    => 29,
